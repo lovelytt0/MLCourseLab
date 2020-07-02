@@ -3,7 +3,7 @@
 ## Anaconda Installation
 Check website: https://docs.anaconda.com/anaconda/install/
 
-Or  https://www.anaconda.com/products/individual to download Individual Edition
+Or  https://www.anaconda.com/products/individual to download Individual Edition (Python 3.7 version)
 
 ## Install Dependent Packages
 Open termnial and type the following commands:
