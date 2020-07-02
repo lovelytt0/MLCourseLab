@@ -5,6 +5,9 @@ check website: https://docs.anaconda.com/anaconda/install/
 Or download Individual Edition: https://www.anaconda.com/products/individual
 ## Install Dependent Packages
 Open termnial and type `pip install obspy`
+`pip install keras`
+`pip install tensorflow`
+you can change to gpu version with command `pip install tensorflow-gpu` if you have CUDA and gpu.
 
 ## Open Jupyter Lab
 
