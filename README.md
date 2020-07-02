@@ -1,8 +1,10 @@
 # MLCourseLab
  
 ## Anaconda Installation
-check website: https://docs.anaconda.com/anaconda/install/
-Or download Individual Edition: https://www.anaconda.com/products/individual
+Check website: https://docs.anaconda.com/anaconda/install/
+
+Or  https://www.anaconda.com/products/individual to download Individual Edition
+
 ## Install Dependent Packages
 Open termnial and type the following commands:
 ```
