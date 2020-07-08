@@ -14,11 +14,6 @@ pip install tensorflow
 ```
 you can change to gpu version with command `pip install tensorflow-gpu` if you have CUDA and gpu.
 
-[Option] If you want to visualize a model like the following figure:
-![image](./Fig/phase_model.png)
-
-You need to install pydot and graphviz by using command `pip install pydot` and download graphviz through [!link](http://www.graphviz.org/download/)
-
 ## Instruction on Jupyter Lab
 
 1) Open terminal (Linux/OS) and type `jupyter lab` or open Jupyter Notebook desktop launcher (Windows)
@@ -29,3 +24,16 @@ You need to install pydot and graphviz by using command `pip install pydot` and 
 ## Finish Two Labs: Neural_Network and PhasePicking
 1) Finish exercises in Neural_Network.ipynb and PhasePicking.ipynb files.
 2) Write a report about neural network and convolutional neural network in pdf file.  
+
+
+[Option] If you want to visualize a model like the following figure:
+
+![image](./Fig/phase_model.png)
+
+You need to install pydot and graphviz by using command `pip install pydot` and download graphviz through [!link](http://www.graphviz.org/download/)
+
+Then you can import plot_model module and plot the model structure.
+```
+from tensorflow.keras.utils import plot_model
+plot_model(model, to_file='Fig/phase_model.png', show_shapes=True, show_layer_names=False)
+```
