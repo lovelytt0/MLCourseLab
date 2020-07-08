@@ -23,7 +23,7 @@ you can change to gpu version with command `pip install tensorflow-gpu` if you h
 
 ## Finish Two Labs: Neural_Network and PhasePicking
 1) Finish exercises in Neural_Network.ipynb and PhasePicking.ipynb files. You can add code `plt.savefig('filename.png')` in Jupyter cells to save the output figure. Please save all the figures required in the exercises.
-2) Write a report about neural network and convolutional neural network in pdf file. First, introduce neural network and convolutional neural network (you can reference slides and links provided in the lab). Second, please answer all the questions in the exercises with required figures and summary of models. Third, please write your understanding in building model structures (e.g., how many layers, how many nuerals, kernel size). Finally, please give us some suggestions on this lab. We can keep improving and updating it.
+2) Write a report about neural network and convolutional neural network in pdf file ( ~ 5 pages). First, introduce neural network and convolutional neural network (you can reference slides and links provided in the lab). Second, please answer all the questions in the exercises with required figures and summary of models. Third, please write your understanding in building model structures (e.g., how many layers, how many nuerals, kernel size, strides). Finally, please give us some suggestions on this lab, so that we can keep improving and updating this lab.
 
 
 ## [Option] 
