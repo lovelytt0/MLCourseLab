@@ -14,7 +14,9 @@ pip install tensorflow
 ```
 you can change to gpu version with command `pip install tensorflow-gpu` if you have CUDA and gpu.
 
-[Option] If you want to visualize a model like the following figure
+[Option] If you want to visualize a model like the following figure:
+![image](./Fig/phase_model.png)
+
 You need to install pydot and graphviz by using command `pip install pydot` and download graphviz through [!link](http://www.graphviz.org/download/)
 
 ## Instruction on Jupyter Lab
